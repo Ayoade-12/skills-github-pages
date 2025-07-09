@@ -1,3 +1,3 @@
 ---
-title: Wandering Thoughts 🥰
+Wandering Thoughts 🥰
 ---
